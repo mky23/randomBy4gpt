@@ -1,7 +1,15 @@
 #generate_Button {
 	margin-bottom: 10px;
 }
-
 #output {
 	margin-top: 10px;
+}
+body {
+  background-color: #333333;
+}
+#generate_Button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
